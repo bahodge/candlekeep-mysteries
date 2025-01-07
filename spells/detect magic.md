@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/spells/2619097-detect-magic

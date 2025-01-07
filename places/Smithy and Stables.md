@@ -1,0 +1,1 @@
+Gold dwarf veteran named [[Khe'ril Hammerbind]] oversees the smithy. Can fix basic equipment and house any kind of mount.

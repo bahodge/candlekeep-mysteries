@@ -1,0 +1,1 @@
+A magnificent fortress library in the [[Sword Coast]] housing millions of rare books.

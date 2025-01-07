@@ -1,0 +1,1 @@
+It is the source of the magic required to maintain the integrity of [[The Hearth]].

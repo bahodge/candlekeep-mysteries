@@ -1,0 +1,1 @@
+Three story bunkhouse provides seekers with a place to rest and store their gear.A The rustic accommodations include both private rooms and common rooms. Noisy patrons are directed to [[The Hearth]].

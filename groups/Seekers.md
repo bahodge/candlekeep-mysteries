@@ -1,0 +1,1 @@
+People who come to [[Candlekeep]] in search of knowledge

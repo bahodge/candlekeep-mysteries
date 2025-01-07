@@ -1,0 +1,1 @@
+Original owner of the [[The Joy of Extradimentional Spaces]] book. She donated the book to [[Candlekeep]] along with the rest of her collection after she died.

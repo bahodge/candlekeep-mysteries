@@ -1,0 +1,1 @@
+If players want to copy a book in it's entirety they must contract the Binders. 100gp and several weeks to copy a single book. Price increases on rarity.

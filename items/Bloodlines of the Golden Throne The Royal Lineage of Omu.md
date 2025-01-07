@@ -1,0 +1,1 @@
+Ancient book written by Amara Lyrell. Purchased by [[Pavo]] from an adventurer from [[Chult]] years ago.
