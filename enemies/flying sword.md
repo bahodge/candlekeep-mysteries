@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/monsters/16865-flying-sword

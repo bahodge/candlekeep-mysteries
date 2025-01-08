@@ -14,11 +14,7 @@
 	1. party enters mansion
 5. Party stumbles upon [[Matreous]], coming out of the study. [[Matreous]] offers the following, he will help the village of [[Va]] if the party can help explore and escape the mansion.
 6. [[Matreous]] enters the study and the doors shut behind him, the party hears a loud shriek and the doors slam shut. The doors are locked and there is no way to enter the study.
-
-### Exploration of the Mansion
-- m3: Library
-	- ENCOUNTER: One of the book stacks in this room is a [[Swarm of Animated books]]. When it emerges all characters within 10 feet bust make a DC 15 saving throw.
-	- Treasure: Jeweled letter opener worth 20gp
-	- Puzzle Book: Wiz 12, with the letter `R` on its spine.
-- m4: Exercise Room
-	- ENCOUTER: If someone fucks with the broom it attacks
+7. Party explores mansion looking for puzzle books
+8. Party figures out the exit word and must speak it within 10 feet of the portal in m1 for it to activate
+9. Party discovers [[Matreous]]'  body and are attacked by an imp
+10. Avowed guide walks in and discovers the party. FIN

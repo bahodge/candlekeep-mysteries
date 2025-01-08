@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/monsters/17108-faerie-dragon-older
