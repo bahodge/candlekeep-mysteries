@@ -19,3 +19,9 @@
 8. If the party
 	1. is sneaking into the hideout, everything is hostile
 	2. If the party is being nice and escorted by [[Korvala]], they can enter the hideout.
+9. If party is:
+	1. friendly
+		1. they can negotiate with [[Korvala]]
+		2. Figure out what they are doing
+	2. Unfriendly
+		1. they can kill all the jacklewares in the hideout
