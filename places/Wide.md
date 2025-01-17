@@ -1,0 +1,1 @@
+Large and crowded marketplace in the [[Upper City]] of [[Baldur's Gate]]. Almost anything can be found here.

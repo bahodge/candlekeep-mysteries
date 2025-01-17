@@ -1,0 +1,1 @@
+Giant wererat. Bears nasty scars from his time in the thieves' guild of [[Baldur's Gate]].

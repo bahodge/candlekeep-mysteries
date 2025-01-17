@@ -1,0 +1,1 @@
+Book stall in the [[Wide]] accused of selling monstrous books.

@@ -1,0 +1,1 @@
+Readers with extensive institutional knowledge. Hold a very high rank within [[Candlekeep]].

@@ -1,0 +1,1 @@
+Elite veteran guards of [[Baldur's Gate]] that protect the [[Wide]] as well as the larger city

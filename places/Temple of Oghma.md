@@ -1,0 +1,1 @@
+A temple dedicated to [[Oghma]] located within [[Candlekeep]] in the [[Court of Air]]

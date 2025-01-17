@@ -1,0 +1,1 @@
+A collection of eclectic essays, though not much is reveals or known of the author. Its subjects cross magic, the multiverse and nature.
