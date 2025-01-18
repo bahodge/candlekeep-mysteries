@@ -4,7 +4,7 @@ Isabelle, Gordo and D entered [[Candlekeep]] in search of a solution to a curse 
 
 ---
 
-Isabelle, Gordo and D emerge from the room where [[Matreous]]' body lay, sweaty and bloody. The Avowed sage [[Garlyth Graystock]] escorts them to [[The Hearth]] to await a hearing with an unknown high-ranking [[Avowed]] member. The group doesn't put up a fight, certain of their innocence. As they have not been found innocent of the murder just yet, the other patrons within [[The Hearth]] remain on edge as rumor spreads throughout the keep. 
+Isabelle, Gordo and D emerge from the room where [[Matreous]]' body lay, sweaty and bloody. The Avowed sage [[Garlyth Graystock]] escorts them to [[The Hearth]] to await a hearing with an unknown high-ranking [[Avowed]] member. The group doesn't put up a fight, certain of their innocence. As they have not been found innocent of the murder just yet, the other patrons within [[The Hearth]] remain on edge as rumor spreads throughout the keep.
 
 Other [[Seekers]] gleefully chatter with the fresh gossip.
 
