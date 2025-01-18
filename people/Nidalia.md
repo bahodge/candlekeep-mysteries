@@ -1,0 +1,1 @@
+She was an usually kind [[Lamia]] and leader of the [[Amberdune pack]]. She was more concerned on remaining undiscovered rather than being openly hostile. As a result, her pack is more reserved than other [[jackleware]] packs. Taught [[Korvala]] the ritual of the [[gingwatzim]]s before she died and used a gaes spell to bind her from sharing that information.

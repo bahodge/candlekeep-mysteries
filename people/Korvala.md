@@ -1,1 +1,1 @@
-Manager of [[Amberdune Books]]
+Manager of [[Amberdune Books]]. Motivated by a bond with her [[jackleware]] pack. She is trying to ressurect a past leader of the pack named [[Nidalia]]

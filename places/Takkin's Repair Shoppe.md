@@ -1,0 +1,1 @@
+A very mall shop owned by [[Takkin]] specializing in fixing magic items. Can only repair common,and uncommon magic items.
