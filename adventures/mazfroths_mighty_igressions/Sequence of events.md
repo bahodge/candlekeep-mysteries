@@ -21,11 +21,16 @@
 	2. If the party is not accompanied by [[jackleware]]s, [[Mushika]] attacks with a [[swarm of rats]] and two [[thug]]s.
 		1. [[Mushika]] tries to flee
 9. If the party
-	1. is sneaking into the [[Amberdune Hideout]]], everything is hostile
+	1. is sneaking into the [[Amberdune Hideout]] everything is hostile
 	2. If the party is being nice and escorted by [[Korvala]], they can enter the hideout.
 10. If party is:
 	1. friendly
 		1. they can negotiate with [[Korvala]]
 		2. Figure out what they are doing
 	2. Unfriendly
-		1. they can kill all the jacklewares in the hideout
+		1. they can kill all the [[jackleware]] in the hideout
+11. Party makes their way through the [[Amberdune Hideout]]
+12. Party returns to [[Candlekeep]].
+	1. [[Yalerion Highscroll]] and [[Valor]] are grateful for the party's efforts
+	2. Amberdune pack might be friends, foes or dead
+	3. Party can donate the [[Mazfroth's Mighty Discressions]] book to [[Candlekeep]]
