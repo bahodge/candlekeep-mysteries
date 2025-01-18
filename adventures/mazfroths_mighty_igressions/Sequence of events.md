@@ -16,10 +16,14 @@
 	2. can ask to speak to the manager. [[Korvala]] will be summoned and speak with the party
 		1. [[Korvala]] will allow the party to follow her to the hideout
 	3. tail the employees. The party can tail the employees to the hideout upon a group DC 13 stealth check. The group must both avoid the employees as well as the suspicious guards of the [[Watch]].
-8. If the party
-	1. is sneaking into the hideout, everything is hostile
+8. The party arrives in [[Blackgate]].
+	1. If the party is accompanied by [[jackleware]]s, [[Mushika]] does not attack.
+	2. If the party is not accompanied by [[jackleware]]s, [[Mushika]] attacks with a [[swarm of rats]] and two [[thug]]s.
+		1. [[Mushika]] tries to flee
+9. If the party
+	1. is sneaking into the [[Amberdune Hideout]]], everything is hostile
 	2. If the party is being nice and escorted by [[Korvala]], they can enter the hideout.
-9. If party is:
+10. If party is:
 	1. friendly
 		1. they can negotiate with [[Korvala]]
 		2. Figure out what they are doing

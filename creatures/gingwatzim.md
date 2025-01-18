@@ -1,0 +1,1 @@
+https://5e.tools/bestiary/gingwatzim-cm.html
