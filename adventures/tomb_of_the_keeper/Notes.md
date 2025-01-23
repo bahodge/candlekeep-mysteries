@@ -18,3 +18,5 @@
 	- pillar 2 - skull & withering tree
 	- pillar 3 - coild serpent
 	- pillar 4 - starry night & cresent moon
+- Room 5 - Mummy with gold crown room
+	- 
