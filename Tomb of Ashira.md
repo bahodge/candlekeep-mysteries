@@ -1,0 +1,1 @@
+Tomb of [[Queen Ashira]]
