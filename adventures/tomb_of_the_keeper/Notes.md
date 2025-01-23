@@ -12,4 +12,9 @@
 		- 2 spell scrolls of legend lore
 	- 3 diamonds worth 2000gp each
 - Room 3
-	- 
+	- fully destroyed
+- Room 4 - giant hourglass room
+	- pillar 1 - sun & flowering plant
+	- pillar 2 - skull & withering tree
+	- pillar 3 - coild serpent
+	- pillar 4 - starry night & cresent moon
