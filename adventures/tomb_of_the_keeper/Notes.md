@@ -19,4 +19,19 @@
 	- pillar 3 - coild serpent
 	- pillar 4 - starry night & cresent moon
 - Room 5 - Mummy with gold crown room
-	- 
+	- kill [[Queen Ashira]]
+- Room 6 - trapdoor
+	- Nine lives stealer longsword with a curved blade (also called a khopesh)
+	- Rod of the sovereigns’ servant (see below)
+	- Potion of flying
+	- Potion of cloud giant strength
+	- Potion of speed
+	- Ashyra’s research notes (see below)
+	- 100 pounds of salt (worth 10 gp)
+	- 10 marble bowls (worth 15 gp each)
+	- 20 square yards of linen (worth 100 gp)
+	- 20 square yards of silk (worth 250 gp)
+	- Gold-plated abacus (worth 250 gp)
+	- Gold mask of Ashrya’s face in life (worth 1,000 gp)
+	- Portrait depicting Ashyra in life (worth 1,250 gp)
+	- 41,330 cp, 1,210 sp, and 980 gp
