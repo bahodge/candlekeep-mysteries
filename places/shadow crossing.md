@@ -1,0 +1,1 @@
+sometimes called a shadow portal or a Bleak Path. Location where the boundary between the [[Shadowfell]] and [[Material Plane]] is thin allowing for travel between the two planes to be possible.

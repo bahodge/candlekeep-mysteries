@@ -1,0 +1,1 @@
+God of literature and scholars. https://forgottenrealms.fandom.com/wiki/Deneir

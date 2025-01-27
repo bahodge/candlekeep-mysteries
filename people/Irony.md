@@ -1,0 +1,1 @@
+A 15 year old tiefling scribe who follows the rules, never lies or steals, and aspires to be [[Keeper of the Tomes]] on day.

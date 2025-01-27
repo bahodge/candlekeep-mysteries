@@ -1,0 +1,1 @@
+18 year old human scribe with a bright smile, a can do attitude and an obnoxious need to impress others.

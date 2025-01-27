@@ -1,0 +1,3 @@
+The party has returned from [[Baldur's Gate]] after dealing with the [[Amberdune pack]]. Their reputation is growing throughout [[Candlekeep]] and has attracted the attention of senior members of the [[Avowed]]. 3 days have passed since the party arrived. There is not much to do in [[Candlekeep]] except read, eat and sleep and the party is anxious to get back to [[Va]] with a solution to lift the curse.
+
+By [[Smithy and Stables]], the party can see [[Garlyth Graystock]] and some other [[Avowed]] members preparing to leave [[Candlekeep]] for a purpose unknown to the party. The party basks in the calming breeze of the midsummer's day when a young tiefling approaches the party.

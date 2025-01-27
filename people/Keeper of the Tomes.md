@@ -1,0 +1,1 @@
+Highest ranked overseer of [[Candlekeep]]. A human [[archmage]] [[Janussi]], a devoted follower of [[Deneir]]

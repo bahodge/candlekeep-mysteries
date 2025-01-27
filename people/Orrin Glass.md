@@ -1,0 +1,1 @@
+a 67 year old human scribe who is deaf in one ear, forgetful and easily exasperated. Owns a [[sending stone]] and can help the party cross reference material at [[Candlekeep]].

@@ -1,0 +1,1 @@
+![r/d100 - a screenshot of a computer](https://i.redd.it/n8lfkcnbf8t41.png)

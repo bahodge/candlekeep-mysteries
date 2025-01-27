@@ -1,0 +1,1 @@
+A caustic geothermal vent emitting thick plumes of gas. It is obviously contributing the surrounding fog and dreary atmosphere surrounding [[Chalet Brantifax]].

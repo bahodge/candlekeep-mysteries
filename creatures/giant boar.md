@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/monsters/16876-giant-boar
