@@ -21,7 +21,7 @@
 	4. [[Teles Ahvoste]] gifts the party 
 		1. 2 [[spell scroll]]s of level 2 spells.
 		2. 1 +1 short sword
-7. The party sets out and arrives at the [[Wytchway]] 2 days later.
+7. The party sets out and arrives at the [[Wytchway]] 7 days later.
 	1.  **Encounter** - the party stumbles across broken wagon in the center of town and is immediately attacked by boars.
 		1. enemies
 			- 1 [[giant boar]]
