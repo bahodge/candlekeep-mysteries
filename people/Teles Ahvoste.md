@@ -1,1 +1,1 @@
-A human. Primary expertise: magic items, curses and the weave.
+[[Great Reader]] at [[Candlekeep]]. A human. Primary expertise: magic items, curses and the weave.
