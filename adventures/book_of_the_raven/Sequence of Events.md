@@ -42,4 +42,7 @@
 10. party continues through forest, passed the [[Scorch of the Red Wyrm]]
 11.  The players arrive at night to [[Chalet Brantifax]] (there is a sign).
 	1. Players can see lights moving throughout the house on the third floor. The lights look like candlelight.
-12. 
+12. players explore the house
+13. Players fight the enemy in the shadowfell
+14. Players return through shadowfell and are unburied by the ravens
+15. Players take a notorized form verifying the authenticity of the [[Book of the Raven]] back to [[Candlekeep]]
