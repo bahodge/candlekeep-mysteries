@@ -1,0 +1,1 @@
+Established after miners discovered a platinum vein in the mountain nearby.

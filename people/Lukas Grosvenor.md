@@ -1,0 +1,3 @@
+Lukas Grosvenor is a 95 year old human tavernkeeper in the town of [[Maerin]]. He is the owner of the town's tavern and inn, the [[Bored Weasel]].   Lukas previously lived in [[Vermeillon]], where he and his wife Lorna worked as miners in the local platnium mine. Around seventy years ago, an explosion rocked the mine and caused a cave-in. Lorna died in the initial collapse, and Lukas and fifteen other miners escaped. As soon as he recuperated he left Vermeillon forever.   He keeps a tidy bar and has become a well-known personality in the permanent residency of Maerin. He frequently tells guests that he's "just living until I can see Lorna again."
+
+He recommends speaking with [[Astra Vorn]], who was a child when they arrived to [[Maerin]]. 

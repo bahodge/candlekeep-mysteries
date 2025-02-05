@@ -1,0 +1,1 @@
+A [[wereraven]] who had a gift for hiding things. He was a founder of the [[Scarlet Sash]]. Hid a map in the [[Book of the Raven]] for anyone interested in the subject matter.

@@ -1,0 +1,1 @@
+A mining and exploration company looking to reopen a mine near a village called [[Vermeillon]]. The company has purchased the rights to the mine through an authorized broker in [[Baldur's Gate]].
