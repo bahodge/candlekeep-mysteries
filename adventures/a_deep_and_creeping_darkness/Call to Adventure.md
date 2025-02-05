@@ -1,0 +1,3 @@
+You arrive in [[Candlekeep]] and are staying at the [[House of rest]] waiting for a new assignment from [[Teles Ahvoste]]. 5 days have passed since you arrived from [[Chalet Brantifax]]. Guides in [[The Hearth]] worry as to the whereabouts of [[Garlyth Graystock]]'s party who should have arrived days ago. Most are chalking up their delay to inclement weather.
+
+A croaked old voice erupts from your [[sending stone]], "[[Teles Ahvoste]] requests your presence in a matter concerning a minor mining guild. Report to the temple." (this consumes [[sending]]).

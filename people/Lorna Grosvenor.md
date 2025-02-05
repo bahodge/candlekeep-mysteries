@@ -1,0 +1,1 @@
+Late wife of [[Lukas Grosvenor]] who died in a mine collapse in [[Vermeillon]]
