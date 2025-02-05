@@ -18,4 +18,5 @@
 	2. Party has nightmares and must succeed a DC 13 Wisdom Save or gain 1 level of exhaustion
 11. Party does [[Vermeillon]] activities
 	1. Party can find greatly decayed fliers that say "DO NOT FEAR! - FLEE"
-	2. Party can find letters in the remnants of the destroyed Mayor's 
+	2. Party can find letters in the remnants of the destroyed Mayor's mansion pleading for help from [[Maerin]] and other nearby towns. Players can make out the words "corrupted fae who spawned by fear"
+12. 
