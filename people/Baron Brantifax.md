@@ -1,0 +1,1 @@
+Long dead baron of [[Chalet Brantifax]].

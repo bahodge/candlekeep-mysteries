@@ -41,5 +41,16 @@
 				2. DC 16 2 pristine wolf pelts worth 25gp each
 10. party continues through forest, passed the [[Scorch of the Red Wyrm]]
 11.  The players arrive at night to [[Chalet Brantifax]] (there is a sign).
-	1. Players can see lights moving throughout the house on the third floor. The lights look like candlelight.
-12. 
+12. READ THE ADVENTURE!
+13. Party defeats the BBEG
+14. Party emerges from the [[shadow crossing]]
+	1. [[Heluthe]] says thank you for saving her sister
+	2. the [[specter]] inside the house dissipates
+15. [[Madrina Natterask]] commits to finding the hag that stole [[Heluthe]]'s bones and adopts her as a member of the [[Scarlet Sash]] until she can be laid to rest.
+16. [[Madrina Natterask]] provides a letter explaining that [[Anil Zasperdes]], a member of the [[Scarlet Sash]], created the map marking the location of a known [[shadow crossing]]. [[Madrina Natterask|Matdrina]] also believes that the [[Book of the Raven]] was written by the [[Baron Brantifax]]'s wife. This can be confirmed by comparing the handwriting in the Baroness' journal and the [[Book of the Raven]].
+17. Party goes back to [[Candlekeep]]
+18. [[Garlyth Graystock]]'s party has not returned.
+19. [[Orrin Glass]] meets the party at the [[House of the Binder]] and collects the certification and takes the book and map to be added to [[Candlekeep]]'s collection.
+
+
+PARTY LEVEL UP!
