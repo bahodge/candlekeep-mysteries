@@ -20,4 +20,6 @@
 	1. Party can find greatly decayed fliers that say "DO NOT FEAR! - FLEE"
 	2. Party can find letters in the remnants of the destroyed Mayor's mansion pleading for help from [[Maerin]] and other nearby towns. Players can make out the words "corrupted fae who spawned by fear"
 12. Party goes to mine
-13. Party neg
+13. Party works through mine
+14. Party leaves mine and goes back to [[Maerin]] and returns the necklace to [[Lukas Grosvenor]].
+15. Party returns to [[Candlekeep]] and reports to [[Teles Ahvoste]] and the [[MinEx Company]] what happened in [[Vermeillon]].
