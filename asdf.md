@@ -9,4 +9,6 @@ At the base of the mountain, there has been a lot of frost giant activity at the
 
 Priority 1 would be to ground the dragon and keep it from flying away.
 
-Halfway up the mountain, there is a tunnel we will have to pass through. Beyond that is likely a lai
+Halfway up the mountain, there is a tunnel we will have to pass through. Beyond the tunnel is a forest and temple to the dwarven gods.
+
+At the top of the mountain is a frozen lake where we will presumable find the Dragon.
