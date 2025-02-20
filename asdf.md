@@ -12,3 +12,8 @@ Priority 1 would be to ground the dragon and keep it from flying away.
 Halfway up the mountain, there is a tunnel we will have to pass through. Beyond the tunnel is a forest and temple to the dwarven gods.
 
 At the top of the mountain is a frozen lake where we will presumable find the Dragon.
+
+---
+We arrive at the foot of the mountain
+
+We see that this is the domain of the dragon. There is a glacial gloom obscuring the area. We see a switchback path going up the mountain.
