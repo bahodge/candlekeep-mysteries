@@ -1,0 +1,4 @@
+You have been summoned by [[Teles Ahvoste]] and are requested to discover the tardiness of [[Garlyth Graystock]]'s party after they were sent to the village of [[Va]]. [[Teles Ahvoste]] is worried that [[Garlyth Graystock]] was sent to [[Va]] when he wasn't ready for the responsibility of removing the curse. The party leaves the [[Temple of Oghma]] and enters the [[Court of Air]] when they see a commotion at the front gate. 
+
+
+A figure approaches the front gate and collapses at the feet of the [[archmage]]. [[Irony]], the young tiefling, gasps for air. She is drenched in blood and begs for water.

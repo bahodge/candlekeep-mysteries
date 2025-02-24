@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/magic-items/9228524-dust-of-sneezing-and-choking

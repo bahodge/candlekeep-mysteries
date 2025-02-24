@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/monsters/5195203-shambling-mound
