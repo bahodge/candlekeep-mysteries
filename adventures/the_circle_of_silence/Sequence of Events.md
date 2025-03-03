@@ -24,6 +24,10 @@
 12. Party decides if they want to approach from the north or the west of the village.
 
 
+## Solving the mystery
+
+[[Jalen Pazt]] and [[Fin Folke]] collaborated with the [[circle of silence]] in order to destroy [[Mendel Shehboden]] and his family. They were jealous of his success and felt that they were exploited. The rest of the village was collateral damage. [[Pavo]] holds a vote to dissolve the village as it will be blighted for a century. [[Pavo]] travels to [[Candlekeep]] where he stays as a scholar, researching the [[circle of silence]].
+
 ## Va Northern outskirts
 
 You approach the village from the north and emerge from the woodline overlooking a fallow field. Beyond the field a milky red fog obscures a view of the town. The fog is not natural in it's shape as it forms a perfect dome over the village with an apex of at least 300ft. Outlines of fences and walls are barely dicernable at the edge of the fog.
@@ -39,7 +43,13 @@ If the party attempts to cross the field, they must do so without triggering 3 [
 
 A small fungal growth protrudes from a body dressed in the robes of the [[Avowed]].
 
+## Folke's House
 
+A simple farmhouse with minimal flair. All of the doors and windows are boarded up. Above the door is a symbol. A player that passes a DC 15 arcana check knows that this is the arcane symbol for "silence". Upon entering the house, the party sees that no item is out of place. The interior of the building is pristine. If the party searches the house with a DC 17 investigation, they will find a note hidden in a vase written in druidic. If the party translates the note they read "We decend in a tenday. Mark your home. Mark the target's. In silence, we heal these troubled lands.". You find a letter from [[Mendal Shehboden]]. "I wish you the best of luck on this years harvest. If you are unable to pay your debt, I will report you to the sherriff."
+
+[[Fin Folke]] leases the farm in the north of [[Va]]. Over years, his fields have become more barren, yeilding little to no food every year. He leased his farm from [[Mendal Shehboden]].
+
+![image](https://github.com/user-attachments/assets/384b1ecd-aa9e-4e5a-af0f-4e96219a09e1)
 
 ## Va Western outskirts
 
@@ -59,4 +69,63 @@ If the party investigates the welcome sign or steps within 30 feet of the small 
 
 A small fungal growth protrudes from a body dressed in the robes of the [[Avowed]].
 
+## Sparrows field
 
+The barren field is flat but heavily obscured. The mud beneath your feet is difficult terrain. As you approach the center of the field all sound is blocked. 
+
+In the center of the field is an effigy roughly resembling a human made of branches, sticks and leaves. A DC 12 history check would reveal tha the effigy is dressed in the formal attire of [[Lady Shehboden]]. The mouth of the effigy is open. If a player inspects the mouth of the effigy they will find a rock with a subtle purple glow. This rock emminates the Silence spell within 30ft of it. If the rock is submerged in a liquid, it is temporarily rendered inert. Surrounding the effigy are carefully laid dry branches emitting a pleasant aroma. With a DC 14 investigation check, a player would recognize it is oil of clove. A highly flammable oil. Players will find a flask of the oil near the effigy.
+
+### Sparrows Field Encounter (Medium)
+
+If the effigy is lit on fire, a piercing wail will emminate from Shehboden Hall as [[Lady Shehboden]] is also lit on fire. Additionally, a mob of 12 cultists and 2 dryads will surround the field and advance into the center of the field to attack the party.
+
+## Batten House
+
+A cozy cottage with two levels sits atop a small rise leading from the path. It's windows and doors are in desperate need of repair but the house itself sits in quiet dignity. Upon entering the house the party can find tools, trinkets and half built inventions littering the floor. [[Maurice Batten]] is nowhere to be found. If [[Isabelle Batten]] searches the house, she will find a headband of intellect in a secret drawer in [[Maurice Batten]]'s desk with a note describing the powers of the headband. A player can beat a 14 constitution saving throw to instantly attune to the headband, otherwise they can attune normally.
+
+## Gaen's House
+
+The home is of sturdy construction and shows little signs of wear. Two grotesque bodies lay in front of the house. From head to toe the bodies are covered in mushrooms and vines. Their eyes follow the party as they walk. [[Wimler Gaen]] and his wife [[Aem Gaen]] were good friends of the Battens and were the owners of the [[Wailing Wench]]. The players find nothing of value in the house.
+
+## Wailing Wench
+
+The front quarter of the building has caved in on itself. A player who succeeds a DC 12 dexterity check can make their way inside the tavern and unbar the front door. If a player drinks or eats anything they must succeed a DC 12 constitution saving throw or be poisoned for one hour. The players can safely take a short rest in this area.
+
+## The Great Well
+
+A stone and mortar well spanning 15 feet across is at the center of a walking garden. Four trees surround the well in a decorative fashion with the overgrowth crawling into the mouth of the well. Players will know that the trees have grown unnaturally large. The color of the water inside of the well is a light red, similar to the fog.
+
+## Workhouse
+
+A small outbuilding used to store tools for use in the Granary as well as the [[Shehboden's Field]]. The walls are lined with tools and equipment. If searched, the players find a note instructing the granary staff to move 17 pallets of grain aside for a sale on behalf of [[Mendal Shehboden]] for "Purple Trees".
+
+## Shehboden's Field
+
+The field is verdant and full of life. The crops are ripe and ready for harvest. Compared to the other fields in [[Va]], [[Shehboden's Field]] is remarkably pristine. If the players eat any of the food in the field they must make a DC 17 constitution savings throw or gain 1 level of exhaustion.
+
+## Pazt's Hut
+
+Home of [[Jalen Pazt]] and his late son [[Eldeno Pazt]]. The hut is in terrible condition. The bedding is rotted and all the walls are soaked. If the party makes a DC 15 perception check, they will see that there is a symbol of silence above the doorframe.
+
+![image](https://github.com/user-attachments/assets/384b1ecd-aa9e-4e5a-af0f-4e96219a09e1)
+
+If the party searches the hut they will find [[Jalen Pazt's Journel]]. If they spend 10 minutes reading the journel they will learn that Jalen felt profound loss after the death of his son Eldeno. He would go on to describe how life was no longer meaningful and that the only person to offer him some comfort was Mendal. The Shehbodens had lost 2 daughters to a diseased crop traced back to Folke's field. "That fucking dwarf boy (Gordo) shouldn't have taunted my Eldeno to jump across those rocks.". Later... "I need to talk to Folke about these shipments. Mendal is getting suspicious."
+
+The party also finds keys to the [[Granary]]. note **Jalen manages the town's granary.
+
+### Pazt's Tree
+
+If [[The D]] searches the tree, he will find 3gp and a locket with a picture of himself (worth 12gp) that he stashed there just in case he ever needed to flee town and start a new life. 
+
+## Pavo's Cottage
+
+The cottage is in great disrepair. The door is ajar and only darkness is seen through the crack. If the party enters the cottage they will see [[Pavo]] and 13 other villagers. All are wounded and unable to travel. A player that casts lesser restoration will allow one villager to be strong enough to travel. [[Pavo]] describes the situation as dire. 
+
+1. After you left 3 weeks ago, it only got worse. My magical abilities were first impeded with a great silence that decended across the town.
+2. I have determined that we have been cursed by druids.
+3. I have been able to collect as many people as I can and hide them in my cottage.
+
+4. I as [[Jalen Pazt]] speaking with one of the druids before they cut his throat and raised him as a zombie. [[Jalen Pazt]] was involved somehow.
+
+
+[[Fin Folke]] had mentioned to [[Pavo]] that he was headed to [[Mendal Shehboden]]'s hall to settle a debt but he has not seen Fin since.
