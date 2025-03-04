@@ -26,7 +26,11 @@
 
 ## Solving the mystery
 
-[[Jalen Pazt]] and [[Fin Folke]] collaborated with the [[circle of silence]] in order to destroy [[Mendel Shehboden]] and his family. They were jealous of his success and felt that they were exploited. The rest of the village was collateral damage. [[Pavo]] holds a vote to dissolve the village as it will be blighted for a century. [[Pavo]] travels to [[Candlekeep]] where he stays as a scholar, researching the [[circle of silence]].
+[[Jalen Pazt]] and [[Fin Folke]] collaborated with the [[circle of silence]] in order to destroy [[Mendel Shehboden]] and his family. [[Fin Folke]] owed the Shehboden family thousands and had no way of repaying that debt.
+
+The rest of the village was collateral damage. 
+
+[[Pavo]] holds a vote to dissolve the village as it will be blighted for a century. [[Pavo]] travels to [[Candlekeep]] where he stays as a scholar, researching the [[circle of silence]].
 
 ## Va Northern outskirts
 
@@ -39,7 +43,7 @@ The land is heavily obscured and the party's clothes, weapons and armor are stai
 From memory, [[Isabelle Batten]], [[Gordo Connolibuns]], and [[The D]] remember where their homes are.
 
 ### Folke Farm Encounter (Hard)
-If the party attempts to cross the field, they must do so without triggering 3 [[shrieker fungus]]. If  a[[shrieker fungus]] is triggered, the party is attacked by 2 [[circle of silence druid]]s, 3 [[zombie]]s and 1 [[ogre zombie]].
+If the party attempts to cross the field, they must do so without triggering 3 [[shrieker fungus]]. If a[[shrieker fungus]] is triggered, the party is attacked by 2 [[circle of silence druid]]s, 3 [[zombie]]s and 1 [[ogre zombie]].
 
 A small fungal growth protrudes from a body dressed in the robes of the [[Avowed]].
 
@@ -47,7 +51,7 @@ A small fungal growth protrudes from a body dressed in the robes of the [[Avowed
 
 A simple farmhouse with minimal flair. All of the doors and windows are boarded up. Above the door is a symbol. A player that passes a DC 15 arcana check knows that this is the arcane symbol for "silence". Upon entering the house, the party sees that no item is out of place. The interior of the building is pristine. If the party searches the house with a DC 17 investigation, they will find a note hidden in a vase written in druidic. If the party translates the note they read "We decend in a tenday. Mark your home. Mark the target's. In silence, we heal these troubled lands.". You find a letter from [[Mendal Shehboden]]. "I wish you the best of luck on this years harvest. If you are unable to pay your debt, I will report you to the sherriff."
 
-[[Fin Folke]] leases the farm in the north of [[Va]]. Over years, his fields have become more barren, yeilding little to no food every year. He leased his farm from [[Mendal Shehboden]].
+If a player rolls a DC 12 history check, they remember that [[Fin Folke]] leases the farm in the north of [[Va]]. Over years, his fields have become more barren, yeilding little to no food every year. He leased his farm from [[Mendal Shehboden]].
 
 ![image](https://github.com/user-attachments/assets/384b1ecd-aa9e-4e5a-af0f-4e96219a09e1)
 
@@ -73,7 +77,7 @@ A small fungal growth protrudes from a body dressed in the robes of the [[Avowed
 
 The barren field is flat but heavily obscured. The mud beneath your feet is difficult terrain. As you approach the center of the field all sound is blocked. 
 
-In the center of the field is an effigy roughly resembling a human made of branches, sticks and leaves. A DC 12 history check would reveal tha the effigy is dressed in the formal attire of [[Lady Shehboden]]. The mouth of the effigy is open. If a player inspects the mouth of the effigy they will find a rock with a subtle purple glow. This rock emminates the Silence spell within 30ft of it. If the rock is submerged in a liquid, it is temporarily rendered inert. Surrounding the effigy are carefully laid dry branches emitting a pleasant aroma. With a DC 14 investigation check, a player would recognize it is oil of clove. A highly flammable oil. Players will find a flask of the oil near the effigy.
+In the center of the field is an effigy roughly resembling a human made of branches, sticks and leaves. A DC 12 history check would reveal tha the effigy is dressed in the formal attire of [[Lady Shehboden]]. The mouth of the effigy is open. If a player inspects the mouth of the effigy they will find a rock with a subtle purple glow. This rock emminates the Silence spell within 30ft of it. If the players remove the rock, the silence spell is dispelled until it is placed in the mouth of the effigy again. Surrounding the effigy are carefully laid dry branches emitting a pleasant aroma. With a DC 14 investigation check, a player would recognize it is oil of clove. A highly flammable oil. Players will find a flask of the oil near the effigy.
 
 ### Sparrows Field Encounter (Medium)
 
@@ -97,19 +101,25 @@ A stone and mortar well spanning 15 feet across is at the center of a walking ga
 
 ## Workhouse
 
-A small outbuilding used to store tools for use in the Granary as well as the [[Shehboden's Field]]. The walls are lined with tools and equipment. If searched, the players find a note instructing the granary staff to move 17 pallets of grain aside for a sale on behalf of [[Mendal Shehboden]] for "Purple Trees".
+A small outbuilding used to store tools for use in the Granary as well as the [[Shehboden's Field]]. The walls are lined with tools and equipment. If searched, the players find a note instructing the granary staff to move 17 pallets of grain aside on behalf of [[Fin Folke]] for "the quite ones".
+
+## Granary
+
+A massive building large enough to hold thousands of pallets of grain is beautifully constructed. The trim on the doors and windows is handcrafted and it can be inferred that it was quite expensive to build. There is a small sign in front of the [[Granary]] which reads "Granary of Va - Commissioned by the Shehboden Family". The door can be opened with a dc 19 slight of hand check or using the key.
+
+The room opens to a grand but empty hall. It is damp and dusty. The party notices that there are no sacks of grain left. As the party enters the building they are again engulfed in the silence spell. They find another effigy, dressed in fine businessmen's attire. The effigy's mouth is also held agape with a stone inside. If the players remove the rock, the silence spell is dispelled. If the silence spell is lifted, the party will be able to hear a faint pages ruffling in the wind. Upon inspection the party will find a ledger documenting the full transaction history of the [[Granary]]. If the party spends 10 minutes reading the ledger, they will learn that [[Fin Folke]] has deposited only 182 sacks of grain this entire year and [[Mendal Shehboden]] deposited 538 sacks. With a DC 14 investigation check, the party discovers that [[Jalen Pazt]] has been reducing a significant number of deposited sacks of grain by marking them as spoiled and discarded.
 
 ## Shehboden's Field
 
-The field is verdant and full of life. The crops are ripe and ready for harvest. Compared to the other fields in [[Va]], [[Shehboden's Field]] is remarkably pristine. If the players eat any of the food in the field they must make a DC 17 constitution savings throw or gain 1 level of exhaustion.
+The field is verdant and full of life. The crops are ripe and ready for harvest. Compared to the other fields in [[Va]], [[Shehboden's Field]] is remarkably pristine. If the players eat any of the food in the field they must make a DC 17 constitution savings throw or gain 1 level of exhaustion. There is an effigy made of wood in the center of the field. It is dressed as [[Mendal Shehboden]]. Inside, there is a glowing stone. The effigy is coated with a flammable oil. If the effigy is set on fire, [[Mendal Shehboden]] will be incinerated.
 
 ## Pazt's Hut
 
-Home of [[Jalen Pazt]] and his late son [[Eldeno Pazt]]. The hut is in terrible condition. The bedding is rotted and all the walls are soaked. If the party makes a DC 15 perception check, they will see that there is a symbol of silence above the doorframe.
+Home of [[Jalen Pazt]] and his late son [[Eldeno Pazt]]. The hut is in terrible condition. The bedding is rotted and all the walls are soaked. If the party makes a DC 14 perception check, they will see that there is a symbol of silence above the doorframe.
 
 ![image](https://github.com/user-attachments/assets/384b1ecd-aa9e-4e5a-af0f-4e96219a09e1)
 
-If the party searches the hut they will find [[Jalen Pazt's Journel]]. If they spend 10 minutes reading the journel they will learn that Jalen felt profound loss after the death of his son Eldeno. He would go on to describe how life was no longer meaningful and that the only person to offer him some comfort was Mendal. The Shehbodens had lost 2 daughters to a diseased crop traced back to Folke's field. "That fucking dwarf boy (Gordo) shouldn't have taunted my Eldeno to jump across those rocks.". Later... "I need to talk to Folke about these shipments. Mendal is getting suspicious."
+If the party searches the hut they will find [[Jalen Pazt's Journel]]. If they spend 10 minutes reading the journel they will learn that Jalen felt profound loss after the death of his son Eldeno. "That fucking dwarf boy (Gordo) shouldn't have taunted my Eldeno to jump across those rocks". He would go on to describe how life was no longer meaningful and that the only person to offer him some comfort was Mendal. The journel goes on to describe that the Shehbodens had lost 2 daughters to a diseased crop traced back to Folke's field. . Later... "I need to talk to Folke about these shipments. Mendal is getting suspicious."
 
 The party also finds keys to the [[Granary]]. note **Jalen manages the town's granary.
 
@@ -124,8 +134,7 @@ The cottage is in great disrepair. The door is ajar and only darkness is seen th
 1. After you left 3 weeks ago, it only got worse. My magical abilities were first impeded with a great silence that decended across the town.
 2. I have determined that we have been cursed by druids.
 3. I have been able to collect as many people as I can and hide them in my cottage.
-
-4. I as [[Jalen Pazt]] speaking with one of the druids before they cut his throat and raised him as a zombie. [[Jalen Pazt]] was involved somehow.
-
-
-[[Fin Folke]] had mentioned to [[Pavo]] that he was headed to [[Mendal Shehboden]]'s hall to settle a debt but he has not seen Fin since.
+4. I saw [[Fin Folke]] speaking with one of the druids before they cut his throat.
+5. There are effigies in town. They have some sort of stones in their mouths that inhibit magic.
+6. [[Fin Folke]] had mentioned to [[Pavo]] that he was headed to [[Mendal Shehboden]]'s hall to settle a debt but he has not seen Fin since.
+7. There is something going on in the [[Granary]] but it's locked. [[Jalen Pazt]] runs the building, maybe he has the key.
