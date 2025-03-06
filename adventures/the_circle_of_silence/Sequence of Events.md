@@ -36,6 +36,10 @@ If the party kills [[Mendal Shehboden]], there is no consequence as the entire t
 
 loot:
 - 4000gp
+- deed to the batten house
+- deed to the connolibun's house
+- deed to the d's house
+- [[Book of Silence]]
 
 
 ## Va Northern outskirts
@@ -149,11 +153,9 @@ The cottage is in great disrepair. The door is ajar and only darkness is seen th
 
 A massive building, constructed in two parts. The northern half built over a century ago and the southern half built within the last 5 years. The building is beautifully crafted, with intricate carvings decorating doors and windows. It emanates wealth and prestige.
 
-The southern half of the building is the dedicated meeting hall. The northern serves as the home of the Shehboden family. The interior of the building is covered in magical darkness.
+The southern half of the building is the dedicated meeting hall. The northern serves as the home of the Shehboden family. The interior of the building is covered in magical darkness except for a small ring in the center.
 
-If the party is able to sneak into the building and find the center of the room, they will find both [[Mendal Shehboden]] and [[Lady Shehboden]] tied up and inverted. [[Lady Shehboden]] is incapacitated and unresponsive. [[Mendal Shehboden]] describes the ordeal and his captors. He says that there is a troll somewhere in the hall.
-
-If the darkness is cleared, a [[troll]] and a [[cultist fanatic]] will engage the party.
+If the party is able to sneak into the building and find the center of the room, they will find both [[Mendal Shehboden]] and [[Lady Shehboden]] tied up and inverted.  [[Lady Shehboden]] is incapacitated and unresponsive. [[Mendal Shehboden]] describes the ordeal and his captors. He says that there is a troll somewhere in the hall. There is also a book in the center of the room, the [[Book of Silence]]. The commotion will trigger a fight with a [[troll]] and a [[cultist fanatic]] will attack them.  If the party touches the book of silence the darkness is dispelled revealing an ambushing [[troll]] and [[cultist fanatic]]. If the party proceeds without clearing the darkness they are ambushed and surprised.
 
 If the party searches the northern portion of Shehboden Hall, they will find a vault. With a DC 14 slight of hand, they can open the vault. Inside, they find a ledger belonging to [[Mendal Shehboden]]. It shows a loan for [[Fin Folke]] with a criminal interest rate. The party finds the body of [[Jalen Pazt]] spread eagle and naked on the master bed with a knife lodged in his throat.
 
