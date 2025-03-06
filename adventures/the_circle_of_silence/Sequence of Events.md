@@ -26,11 +26,17 @@
 
 ## Solving the mystery
 
-[[Jalen Pazt]] and [[Fin Folke]] collaborated with the [[circle of silence]] in order to destroy [[Mendel Shehboden]] and his family. [[Fin Folke]] owed the Shehboden family thousands and had no way of repaying that debt.
+[[Jalen Pazt]] and [[Fin Folke]] collaborated with the [[circle of silence]] in order to destroy [[Mendal Shehboden]] and his family. [[Fin Folke]] owed the Shehboden family thousands and had no way of repaying that debt. [[Jalen Pazt]]  
 
 The rest of the village was collateral damage. 
 
 [[Pavo]] holds a vote to dissolve the village as it will be blighted for a century. [[Pavo]] travels to [[Candlekeep]] where he stays as a scholar, researching the [[circle of silence]].
+
+If the party kills [[Mendal Shehboden]], there is no consequence as the entire town is rallied behind this decision. [[Mendal Shehboden]]'s wealth is redistributed between the Battens, Connolibuns, Pavo and The D.
+
+loot:
+- 4000gp
+
 
 ## Va Northern outskirts
 
@@ -89,7 +95,7 @@ A cozy cottage with two levels sits atop a small rise leading from the path. It'
 
 ## Gaen's House
 
-The home is of sturdy construction and shows little signs of wear. Two grotesque bodies lay in front of the house. From head to toe the bodies are covered in mushrooms and vines. Their eyes follow the party as they walk. [[Wimler Gaen]] and his wife [[Aem Gaen]] were good friends of the Battens and were the owners of the [[Wailing Wench]]. The players find nothing of value in the house.
+The home is of sturdy construction and shows little signs of wear. Two grotesque bodies lay in front of the house. From head to toe the bodies are covered in mushrooms and vines. Their hands are bound to their feet. Their eyes follow the party as they walk. [[Wimler Gaen]] and his wife [[Aem Gaen]] were good friends of the Battens and were the owners of the [[Wailing Wench]]. The players find nothing of value in the house.
 
 ## Wailing Wench
 
@@ -115,11 +121,11 @@ The field is verdant and full of life. The crops are ripe and ready for harvest.
 
 ## Pazt's Hut
 
-Home of [[Jalen Pazt]] and his late son [[Eldeno Pazt]]. The hut is in terrible condition. The bedding is rotted and all the walls are soaked. If the party makes a DC 14 perception check, they will see that there is a symbol of silence above the doorframe.
+Home of [[Jalen Pazt]] and his late son [[Eldeno Pazt]]. The hut is in terrible condition. The bedding is rotted and all the walls are soaked. If the party makes a DC 14 perception check, they will see that there is a symbol of silence above the door frame.
 
 ![image](https://github.com/user-attachments/assets/384b1ecd-aa9e-4e5a-af0f-4e96219a09e1)
 
-If the party searches the hut they will find [[Jalen Pazt's Journel]]. If they spend 10 minutes reading the journel they will learn that Jalen felt profound loss after the death of his son Eldeno. "That fucking dwarf boy (Gordo) shouldn't have taunted my Eldeno to jump across those rocks". He would go on to describe how life was no longer meaningful and that the only person to offer him some comfort was Mendal. The journel goes on to describe that the Shehbodens had lost 2 daughters to a diseased crop traced back to Folke's field. . Later... "I need to talk to Folke about these shipments. Mendal is getting suspicious."
+If the party searches the hut they will find [[Jalen Pazt's Journel]]. If they spend 10 minutes reading the journel they will learn that Jalen felt profound loss after the death of his son Eldeno. "That fucking dwarf boy (Gordo) shouldn't have taunted my Eldeno to jump across those rocks". He would go on to describe how life was no longer meaningful and that the only person to offer him some comfort was [[Lady Shehboden]]. Over several graphically detailed entries, Jalen admits to having an affair with [[Lady Shehboden]] leading to an unintended pregnancy that [[Mendal Shehboden]] doesn't yet know about. The last entry of the journal reads "I need to talk to Folke about these shipments. Mendal is getting suspicious."
 
 The party also finds keys to the [[Granary]]. note **Jalen manages the town's granary.
 
@@ -136,5 +142,19 @@ The cottage is in great disrepair. The door is ajar and only darkness is seen th
 3. I have been able to collect as many people as I can and hide them in my cottage.
 4. I saw [[Fin Folke]] speaking with one of the druids before they cut his throat.
 5. There are effigies in town. They have some sort of stones in their mouths that inhibit magic.
-6. [[Fin Folke]] had mentioned to [[Pavo]] that he was headed to [[Mendal Shehboden]]'s hall to settle a debt but he has not seen Fin since.
+6. [[Jalen Pazt]] mentioned to [[Pavo]] that he was headed to [[Mendal Shehboden]]'s hall to go over the month's production numbers but he never returned.
 7. There is something going on in the [[Granary]] but it's locked. [[Jalen Pazt]] runs the building, maybe he has the key.
+
+## Shehboden Hall
+
+A massive building, constructed in two parts. The northern half built over a century ago and the southern half built within the last 5 years. The building is beautifully crafted, with intricate carvings decorating doors and windows. It emanates wealth and prestige.
+
+The southern half of the building is the dedicated meeting hall. The northern serves as the home of the Shehboden family. The interior of the building is covered in magical darkness.
+
+If the party is able to sneak into the building and find the center of the room, they will find both [[Mendal Shehboden]] and [[Lady Shehboden]] tied up and inverted. [[Lady Shehboden]] is incapacitated and unresponsive. [[Mendal Shehboden]] describes the ordeal and his captors. He says that there is a troll somewhere in the hall.
+
+If the darkness is cleared, a [[troll]] and a [[cultist fanatic]] will engage the party.
+
+If the party searches the northern portion of Shehboden Hall, they will find a vault. With a DC 14 slight of hand, they can open the vault. Inside, they find a ledger belonging to [[Mendal Shehboden]]. It shows a loan for [[Fin Folke]] with a criminal interest rate. The party finds the body of [[Jalen Pazt]] spread eagle and naked on the master bed with a knife lodged in his throat.
+
+If the party frees [[Mendal Shehboden]], he requests that the party takes [[Lady Shehboden]] with them. He refuses to support her after her affair with [[Jalen Pazt]].
