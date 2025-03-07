@@ -39,6 +39,7 @@ loot:
 - deed to the batten house
 - deed to the connolibun's house
 - deed to the d's house
+	- will and testiment of Fin Folke'
 - [[Book of Silence]]
 
 
