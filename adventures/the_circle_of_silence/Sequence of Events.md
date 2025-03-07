@@ -122,7 +122,7 @@ The room opens to a grand but empty hall. It is damp and dusty. The party notice
 
 ## Shehboden's Field
 
-The field is verdant and full of life. The crops are ripe and ready for harvest. Compared to the other fields in [[Va]], [[Shehboden's Field]] is remarkably pristine. If the players eat any of the food in the field they must make a DC 17 constitution savings throw or gain 1 level of exhaustion. There is an effigy made of wood in the center of the field. It is dressed as [[Mendal Shehboden]]. Inside, there is a glowing stone. The effigy is coated with a flammable oil. If the effigy is set on fire, [[Mendal Shehboden]] will be incinerated.
+	The field is verdant and full of life. The crops are ripe and ready for harvest. Compared to the other fields in [[Va]], [[Shehboden's Field]] is remarkably pristine. If the players eat any of the food in the field they must make a DC 17 constitution savings throw or gain 1 level of exhaustion. There is an effigy made of wood in the center of the field. It is dressed as [[Mendal Shehboden]]. Inside, there is a glowing stone. The effigy is coated with a flammable oil. If the effigy is set on fire, [[Mendal Shehboden]] will be incinerated.
 
 ## Pazt's Hut
 
