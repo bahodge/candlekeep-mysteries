@@ -1,0 +1,1 @@
+Party member and Dragonborn. Enjoys being strong. From the village of [[Va]]
