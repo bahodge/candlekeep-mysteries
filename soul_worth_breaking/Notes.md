@@ -20,4 +20,4 @@ We are given the contract to bind [[Lucian Veilcross]] to [[Ginzeval]]. Once the
 ---
 ## East Gate
 
-We are teleported to the East Gate and appear in some nearby woods.
+We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who te
