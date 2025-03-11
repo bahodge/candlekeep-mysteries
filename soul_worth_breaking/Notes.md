@@ -20,4 +20,6 @@ We are given the contract to bind [[Lucian Veilcross]] to [[Ginzeval]]. Once the
 ---
 ## East Gate
 
-We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who te
+We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who tells us that there is a great live music show in the [[Guilded Tankard Tavern]] in the merchant's quarter.
+
+[[Leith]] sings a song for the road and we meet [[Bael Hardhelm]]. We ask about some gossip in the town. He heard that the nobels were having a masquerade

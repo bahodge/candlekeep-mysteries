@@ -1,0 +1,1 @@
+Dwarf trader with tan skin. Strong angular features. Sells hides.
