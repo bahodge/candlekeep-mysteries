@@ -26,3 +26,6 @@ We are teleported to the East Gate and appear in some nearby woods. We meet a dw
 
 We need a travel card to enter [[Eldoria]]. [[Bael Hardhelm]] says that the line on the right is corrupt and we can get into the city.
 
+## East Gate
+
+We get into the right line. There is a long line to enter the city. We distract all the people in line and get to the front of the line faster.
