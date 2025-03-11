@@ -18,8 +18,11 @@ We speak with [[Ginzeval]]. He tells us that we need high level souls for the ba
 We are given the contract to bind [[Lucian Veilcross]] to [[Ginzeval]]. Once the contract is signed, [[Ginzeval]] will be notified.
 
 ---
-## East Gate
+## Road to East Gate
 
 We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who tells us that there is a great live music show in the [[Guilded Tankard Tavern]] in the merchant's quarter.
 
-[[Leith]] sings a song for the road and we meet [[Bael Hardhelm]]. We ask about some gossip in the town. He heard that the nobels were having a masquerade
+[[Leith]] sings a song for the road and we meet [[Bael Hardhelm]]. We ask about some gossip in the town. He heard that the nobles were having a masquerade. Perhaps we can get a contract to play at the show.
+
+We need a travel card to enter [[Eldoria]]. [[Bael Hardhelm]] says that the line on the right is corrupt and we can get into the city.
+
