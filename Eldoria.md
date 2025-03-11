@@ -1,0 +1,1 @@
+Medium sized city and holds a devout following of [[Lethander]].

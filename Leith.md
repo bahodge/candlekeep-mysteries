@@ -1,1 +1,1 @@
-Party member warlock and her patron is [[Arch Devil Ginzeval]]
+Party member warlock and her patron is [[Ginzeval]]
