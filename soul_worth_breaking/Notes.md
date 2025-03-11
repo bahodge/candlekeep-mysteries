@@ -16,3 +16,7 @@ We speak with [[Ginzeval]]. He tells us that we need high level souls for the ba
 [[Lucian Veilcross]] is the commander of the city and likely would be near the castle.
 
 We are given the contract to bind [[Lucian Veilcross]] to [[Ginzeval]]. Once the contract is signed, [[Ginzeval]] will be notified.
+
+---
+## East Gate
+
