@@ -59,3 +59,7 @@ We murder the librarian and steal the biography.
 ## Tavern
 
 We see a veteran and drink with them. He tells us that [[Lucian Veilcross]] betrayed the army when he collapsed the cliffs with his own catapults. [[Lucian Veilcross]] was hailed as a hero. The veteran's name is Captain [[Alric Kane]]. There were many bodies taken to the graveyard.
+
+We notice that [[Muriel Everstone]] has a silver chain around her neck but we cannot see the locket or amulet at the end of the chain.
+
+We can get tickets to the nobles ball from [[]]
