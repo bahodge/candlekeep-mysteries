@@ -63,3 +63,8 @@ We see a veteran and drink with them. He tells us that [[Lucian Veilcross]] betr
 We notice that [[Muriel Everstone]] has a silver chain around her neck but we cannot see the locket or amulet at the end of the chain.
 
 We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 100gp each ticket to get in to the ball. The ball is next week. [[Lucian Veilcross]] will be there.
+
+## The plan
+1. [[Leith]] dresses like librarian.
+2. [[Leith]] impersonates the library.
+3. [[Jax]] and [[Falice]] forge letters and notes saying that the librarian is going into hiding.
