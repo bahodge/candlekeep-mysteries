@@ -56,4 +56,6 @@ We learn that [[Lucian Veilcross]] comes to the library describing visions. He c
 
 We murder the librarian and steal the biography.
 
-## 
+## Tavern
+
+We see a veteran and drink with them. He tells us that [[Lucian Veilcross]] betrayed the army when he collapsed the cliffs with his own catapults. [[Lucian Veilcross]] was hailed as a hero.
