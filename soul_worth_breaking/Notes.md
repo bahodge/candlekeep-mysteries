@@ -38,4 +38,6 @@ The road is flanked by large statues. We go to the [[Gilded Tankard Tavern]].
 
 ## Gilded Tankard Tavern
 
-There are not many patrons there. 
+There are not many patrons there. We head in to the tavern to secure accomodation. Tonight the tavern has [[Muriel Everstone]] playing in the evening. So maybe we can talk to her.
+
+We are unable to secure a slot to perform in the tavern over the weekend.
