@@ -62,4 +62,4 @@ We see a veteran and drink with them. He tells us that [[Lucian Veilcross]] betr
 
 We notice that [[Muriel Everstone]] has a silver chain around her neck but we cannot see the locket or amulet at the end of the chain.
 
-We can get tickets to the nobles ball from [[]]
+We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 100gp each ticket to get in to the ball. The ball is next week. [[Lucian Veilcross]] will be there.
