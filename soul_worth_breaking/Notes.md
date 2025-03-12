@@ -52,4 +52,4 @@ We go to the castle and figure out what [[Lucian Veilcross]] looks like.
 
 A cathedral looking library made of stone and stuff. Two stone lions flank the front entrance. We enter library. It smells musty inside. At the front desk is an older looking woman with grey hair.
 
-We learn that [[Lucian Veilcross]] comes to the library describing visions. He comes to the library to 
+We learn that [[Lucian Veilcross]] comes to the library describing visions. He comes to the library and gets his biographical story recorded by the librarian.
