@@ -20,7 +20,7 @@ We are given the contract to bind [[Lucian Veilcross]] to [[Ginzeval]]. Once the
 ---
 ## Road to East Gate
 
-We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who tells us that there is a great live music show in the [[Guilded Tankard Tavern]] in the merchant's quarter.
+We are teleported to the East Gate and appear in some nearby woods. We meet a dwarf who tells us that there is a great live music show in the [[Gilded Tankard Tavern]] in the merchant's quarter.
 
 [[Leith]] sings a song for the road and we meet [[Bael Hardhelm]]. We ask about some gossip in the town. He heard that the nobles were having a masquerade. Perhaps we can get a contract to play at the show.
 
@@ -28,4 +28,14 @@ We need a travel card to enter [[Eldoria]]. [[Bael Hardhelm]] says that the line
 
 ## East Gate
 
-We get into the right line. There is a long line to enter the city. We distract all the people in line and get to the front of the line faster.
+We get into the right line. There is a long line to enter the city. We distract all the people in line and get to the front of the line faster. The name of the guard that we buy the pass from is [[Sergeant Vaylin]].
+
+# Eldoria
+
+We enter the city of [[Eldoria]]. The gate is a stone wall that is 20ft high with a portculis. The city looks very well defended and the road is cobblestone.
+
+The road is flanked by large statues. We go to the [[Gilded Tankard Tavern]].
+
+## Gilded Tankard Tavern
+
+There are not many patrons there. 
