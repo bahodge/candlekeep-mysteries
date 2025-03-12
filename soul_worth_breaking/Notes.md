@@ -42,8 +42,6 @@ There are not many patrons there. We head in to the tavern to secure accomodatio
 
 We are unable to secure a slot to perform in the tavern over the weekend. We head up to the rooms.
 
-We learn that the poor side of town is the eastbank.
-The west bank is the wealthier side of town
-There is also a library of [[Eldoria]].
+We learn that the poor side of town is the eastbank. The west bank is the wealthier side of town. There is also a library of [[Eldoria]].
 
 Figure out what [[Lucian Veilcross]] looks like.
