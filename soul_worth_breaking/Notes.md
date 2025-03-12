@@ -68,5 +68,6 @@ We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 
 1. [[Leith]] dresses like librarian.
 2. [[Leith]] impersonates the library.
 3. [[Jax]] and [[Falice]] forge letters and notes saying that the librarian is going into hiding.
+4. [[Jax]] and [[Falice]] dispose of the bodies of the librarian and her husband
 
-We learn that [[Lucian Veilcross]] doesn't like [[Cedric Vail]] and accuses them of stealing the biography. Possibly [[Verrick]] the gladiator fighter from the pits.
+We learn that [[Lucian Veilcross]] doesn't like [[Cedric Vail]] and accuses them of stealing the biography. Possibly [[Verrick]] the gladiator fighter from the pits. [[Cedric Vail]] is more active in tarnishing [[Lucian Veilcross]]' name.
