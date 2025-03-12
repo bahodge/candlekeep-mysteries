@@ -49,3 +49,7 @@ We learn that the poor side of town is the eastbank. The west bank is the wealth
 We go to the castle and figure out what [[Lucian Veilcross]] looks like.
 
 ## Library
+
+A cathedral looking library made of stone and stuff. Two stone lions flank the front entrance. We enter library. It smells musty inside. At the front desk is an older looking woman with grey hair.
+
+We learn that [[Lucian Veilcross]] comes to the library describing visions. He comes to the library to 
