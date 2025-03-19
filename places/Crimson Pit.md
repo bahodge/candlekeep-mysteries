@@ -1,1 +1,1 @@
-A half colluseum. There is a gladiator pit. We see that [[Varri]]
+A half colluseum. There is a gladiator pit.

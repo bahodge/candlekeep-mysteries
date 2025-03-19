@@ -71,7 +71,7 @@ We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 
 4. [[Jax]] and [[Falice]] dispose of the bodies of the librarian and her husband
 
 ## Library
-[[Leith]] goes to the library and is seen by a few guards. She hears a knock in the door and it is [[Lucian Veilcross]] coming to add another entry to his biography. We learn that [[Lucian Veilcross]] doesn't like [[Cedric Vail]] and accuses them of stealing the biography. Possibly [[Verrick]] the gladiator fighter from the pits. [[Cedric Vail]] is more active in tarnishing [[Lucian Veilcross]]' name.
+[[Leith]] goes to the library and is seen by a few guards. She hears a knock in the door and it is [[Lucian Veilcross]] coming to add another entry to his biography. We learn that [[Lucian Veilcross]] doesn't like [[Cedric Vail]] and accuses them of stealing the biography. Possibly [[Berrick]] the gladiator fighter from the pits. [[Cedric Vail]] is more active in tarnishing [[Lucian Veilcross]]' name.
 
 ## Librarian's House
 [[Jax]] and [[Falice]] get rid of the bodies by storing the bodies of the librarian and her husband in the sewers near the Martial Quarter.
@@ -84,3 +84,4 @@ We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 
 ---
 We decide to head to the [[Crimson Pit]]. We see [[Lucian Veilcross]] and his guard going to the Archavist's house.
 
+We arrive and ask about [[Berrick]]. We talk to the bookie and get info on [[Berrick]].
