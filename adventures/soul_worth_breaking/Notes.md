@@ -80,3 +80,7 @@ We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 
 
 - At 10:15 am we are at the tavern
 	- We should go to the graveyard to talk the dead people
+
+---
+We decide to head to the [[Crimson Pit]]. We see [[Lucian Veilcross]] and his guard going to the Archavist's house.
+
