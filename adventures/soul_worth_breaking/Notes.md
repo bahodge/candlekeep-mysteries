@@ -79,4 +79,7 @@ We can get tickets to the nobles ball from [[Cedric Vail]]. We can probably pay 
 ---
 We decide to head to the [[Crimson Pit]]. We see [[Lucian Veilcross]] and his guard going to the Archavist's house.
 
-We arrive and ask about [[Berrick]]. We talk to the bookie and get info on [[Berrick]]. He generally wants to challenge [[Lucian Veilcross]] to a battle.
+We arrive and ask about [[Berrick]]. We talk to the bookie and get info on [[Berrick]]. He generally wants to challenge [[Lucian Veilcross]] to a duel.
+
+---
+We walk by the Archavist's house and there are guards around. We ask about the investigator who is casting spells. It is [[Helena Drayton]]
