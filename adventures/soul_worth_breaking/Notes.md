@@ -113,6 +113,9 @@ A tale of guilt, fear, temptation, betrayal and pride
 5. Betrayal - TBD
 ### Act One
 
+1. Introduction of the characters
+2. 
+
 ### Act two
 
 ### Act three
