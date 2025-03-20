@@ -89,4 +89,4 @@ We go to the graveyard. It is called Silent Rest Graveyard. We go into the grave
 We would need compelling evidence. We might be able to use his biography.
 
 ---
-We trick the guards in the Nobel quarter and get to the Chateau Veil. It is a house that resides in the shadow of the city's wall.
+We trick the guards in the Nobel quarter and get to the Chateau Veil. It is a house that resides in the shadow of the city's wall. We are granted an audience with [[Cedric Vail]] to perform at t
