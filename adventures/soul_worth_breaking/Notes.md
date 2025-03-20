@@ -96,3 +96,7 @@ We perform a audition and impress [[Cedric Vail]]. Some people say that he only 
 We need to do a performance that sheds [[Lucian Veilcross]] in a bad light.
 
 We have access to the ballroom to prepare/practice. We are given a note that says we can enter Chateau Veil once to prep for the ball and once the night of the event.
+
+---
+
+We sit and read the biography. It is a large book. 
