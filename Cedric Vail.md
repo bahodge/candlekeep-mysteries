@@ -1,0 +1,1 @@
+Short and charismatic person. Very cute noble.
