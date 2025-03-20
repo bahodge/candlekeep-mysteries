@@ -90,3 +90,5 @@ We would need compelling evidence. We might be able to use his biography.
 
 ---
 We trick the guards in the Nobel quarter and get to the Chateau Veil. It is a house that resides in the shadow of the city's wall. We are granted an audience with [[Cedric Vail]] to audition for the ball.
+
+We perform a audition and impress [[Cedric Vail]]. Some people say that he only destroyed the city to prevent peasants from walking in through the city in the noble. [[Lucian Veilcross]] also
