@@ -104,7 +104,7 @@ We sit and read the biography. It is a large book. The book is written in a way 
 Muriel is on the stage at the tavern. There are two striders in the tavern who say a bunch of really uncomfortable things. One of them is [[Lucian Veilcross]] when his disguise is dispelled.
 
 --- 
- We go to the graveyard and we dig up [[Beatrice Langly]]'s sister's body.
+ We go to the graveyard and we dig up [[Beatrice Langly]]'s sister's body. [[Annette Langly]] is questioned about the events at [[Dunmere]]. She tells us that [[Lucian Veilcross]] told her to go to the town hall and 
 
 ---
 ## The play
