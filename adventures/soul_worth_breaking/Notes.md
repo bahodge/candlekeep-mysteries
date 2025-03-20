@@ -84,4 +84,6 @@ We arrive and ask about [[Berrick]]. We talk to the bookie and get info on [[Ber
 ---
 We walk by the Archavist's house and there are guards around. We ask about the investigator who is casting spells. It is [[Helena Drayton]]
 
-We go to the graveyard. It is called Silent Rest Graveyard. We go into the graveyard and meet the grave keeper. We tell them we want to see the graves of the warriors of [[Dunmere]]. We see [[Alric Kane]] and some of the widows. We charm the gravekeeper and distract him. D
+We go to the graveyard. It is called Silent Rest Graveyard. We go into the graveyard and meet the grave keeper. We tell them we want to see the graves of the warriors of [[Dunmere]]. We see [[Alric Kane]] and some of the widows. We charm the gravekeeper and distract him. We learn that most people don't know about the atrocities committed by [[Lucian Veilcross]]. [[Alric Kane]] was there visiting the memorial with [[Beatrice Langly]]. Her sister was killed in the fighting at [[Dunmere]].
+
+We would need compelling evidence.
