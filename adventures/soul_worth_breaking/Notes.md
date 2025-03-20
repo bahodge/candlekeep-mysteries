@@ -101,6 +101,8 @@ We have access to the ballroom to prepare/practice. We are given a note that say
 
 We sit and read the biography. It is a large book. The book is written in a way that shows him in a really good light. He really doesn't want to fade away. He wants to be remembered. He is requisitioning a statue to be put in the entry of the city. It seems very rough. There are revisions and notes. 
 
+Muriel is on the stage at the tavern
+
 ---
 ## The play
 
@@ -114,7 +116,8 @@ A tale of guilt, fear, temptation, betrayal and pride
 ### Act One
 
 1. Introduction of the characters
-2. 
+2. Battle of Dunmere
+	1. guilt of killing all of the soldiers and civilians.
 
 ### Act two
 
