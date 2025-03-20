@@ -105,5 +105,14 @@ We sit and read the biography. It is a large book. The book is written in a way 
 ## The play
 
 A tale of guilt, fear, temptation, betrayal and pride
+
+1. Guilt of killing all of his soldiers and civilians
+2. Fear of fighting a great warrior [[Berrick]].
+3. Pride of his actions and not wanting to be forgotten. Statues, autobiography, etc.
+4. Temptation of secret lovers after taking his oath as a paladin
+5. Betrayal - TBD
 ### Act One
 
+### Act two
+
+### Act three
