@@ -1,4 +1,3 @@
-
 ## The play
 
 A tale of guilt, fear, temptation, betrayal and pride
