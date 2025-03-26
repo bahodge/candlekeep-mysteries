@@ -15,6 +15,7 @@ A tale of guilt, fear, temptation, betrayal and pride
 2. Battle of Dunmere
 	1. Show [[Lucian Veilcross]] ordering civis to take shelter in temple
 	2. Show civilains being crushed by the mountains
+		1. second army, captains, etc...
 	3. guilt of killing all of the soldiers and civilians.
 3. 
 
