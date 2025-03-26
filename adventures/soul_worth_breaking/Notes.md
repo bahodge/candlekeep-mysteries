@@ -120,7 +120,10 @@ A tale of guilt, fear, temptation, betrayal and pride
 
 1. Introduction of the characters
 2. Battle of Dunmere
-	1. guilt of killing all of the soldiers and civilians.
+	1. Show [[Lucian Veilcross]] ordering civis to take shelter in temple
+	2. Show civilains being crushed by the mountains
+	3. guilt of killing all of the soldiers and civilians.
+3. 
 
 ### Act two
 
