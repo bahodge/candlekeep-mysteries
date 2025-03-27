@@ -4,4 +4,15 @@ We travel towards the west and find [[Lucian Veilcross]]'s castle. We get to the
 
 We cast a bunch of spells and convince the chamberlain to give us a tour of the entire house.  We loot the keys off of the Chamberlain. We end up killing the Chamberlain and burning his body. The body emits black smoke.
 
-We found a locket in the chest inside of a silver necklace (half locket) shaped as a half heart.
+We found a locket in the chest inside of a silver necklace (half locket) shaped as a half heart. 
+
+We split up inside of the house and search different rooms.
+
+We find a map of the city that has pins in it marking several locations in the town.
+1. One of the pins is labeled thieves guild on the bazzar
+2. Stoneward hold, guard's headquarters with a note "corruption"
+3. One over the crimson pit, "threats"
+4. one on chateau veil, "upstart"
+5. on on the temple "profaner"
+
+Additionally, in the same room, there is a short sword that looks very out of place.
