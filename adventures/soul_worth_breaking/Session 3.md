@@ -4,4 +4,4 @@ We travel towards the west and find [[Lucian Veilcross]]'s castle. We get to the
 
 We cast a bunch of spells and convince the chamberlain to give us a tour of the entire house.  We loot the keys off of the Chamberlain. We end up killing the Chamberlain and burning his body. The body emits black smoke.
 
-We found a locket in the chest inside of a silver necklace (half locket).
+We found a locket in the chest inside of a silver necklace (half locket) shaped as a half heart.
