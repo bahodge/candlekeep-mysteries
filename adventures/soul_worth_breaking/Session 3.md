@@ -22,3 +22,5 @@ We find [[Lucian Veilcross]]'s bodyguard's room. His name is Sir [[Rodrick Thorn
 We go down a secret staircase in the private study. We find a dry bar with many alcohol bottles. We break open a drawer and find a journal. It goes over the events of the [[Dunmere]] campaign. It says that there was a second army.
 
 We also find something glinting in the trash and it is a torn up medal for honor at [[Dunmere]]. We also find a longsword. It is ornately crafted and it has an inscription on the blade "to my brother in arms, Alric". Likely meant for [[Alric Kane]].
+
+We find an unsent letter, dated from years ago, written to x____ confirming his love for them but says that he must choose between his lover and the order. There are letters after this letter that we find that are lusty 
