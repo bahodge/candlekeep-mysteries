@@ -23,4 +23,4 @@ We go down a secret staircase in the private study. We find a dry bar with many 
 
 We also find something glinting in the trash and it is a torn up medal for honor at [[Dunmere]]. We also find a longsword. It is ornately crafted and it has an inscription on the blade "to my brother in arms, Alric". Likely meant for [[Alric Kane]].
 
-We find an unsent letter, dated from years ago, written to x____ confirming his love for them but says that he must choose between his lover and the order. There are letters after this letter that we find that are lusty 
+We find an unsent letter, dated from years ago, written to x____ confirming his love for them but says that he must choose between his lover and the order. There are letters after this letter that we find that are lusty sexually graphic. It also says "i love seeing you perform" and he loves "flooding her guts".
