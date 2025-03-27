@@ -24,3 +24,12 @@ We go down a secret staircase in the private study. We find a dry bar with many 
 We also find something glinting in the trash and it is a torn up medal for honor at [[Dunmere]]. We also find a longsword. It is ornately crafted and it has an inscription on the blade "to my brother in arms, Alric". Likely meant for [[Alric Kane]].
 
 We find an unsent letter, dated from years ago, written to x____ confirming his love for them but says that he must choose between his lover and the order. There are letters after this letter that we find that are lusty sexually graphic. It also says "i love seeing you perform" and he loves "flooding her guts".
+
+We stage PROOF that we leave the building safely. Then a massive fight ensues. We kill some guards and civilians and run away.
+
+We make it to the tavern running late for our performance. [[Muriel Everstone]] is there and she is wearing the other half of heart shaped locket. She has a good time and invites us to hang out to her [[Ravenshires Villa]]. 
+
+## Next time
+1. Go to temple and look for profaner
+2. Go to Muriel for lunch/brunch
+3. Go to Thieves guild
