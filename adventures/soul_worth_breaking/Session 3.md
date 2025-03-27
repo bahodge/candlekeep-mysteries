@@ -18,3 +18,5 @@ We find a map of the city that has pins in it marking several locations in the t
 Additionally, in the same room, there is a short sword that looks very out of place.
 
 We find [[Lucian Veilcross]]'s bodyguard's room. His name is Sir [[Rodrick Thorn]]. We find a letter proclaiming his loyalty to [[Lucian Veilcross]].
+
+We go down a secret staircase in the private study. We find a dry bar with many alcohol bottles. We break open a drawer and find a journal. It goes over the events of the [[Dunmere]] campaign. It says that there was 
