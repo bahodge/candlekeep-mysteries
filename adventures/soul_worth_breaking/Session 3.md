@@ -16,3 +16,5 @@ We find a map of the city that has pins in it marking several locations in the t
 5. on on the temple "profaner"
 
 Additionally, in the same room, there is a short sword that looks very out of place.
+
+We find [[Lucian Veilcross]]'s bodyguard's room. His name is Sir [[Rodrick Thorn]]. We find a letter proclaiming his loyalty to [[Lucian Veilcross]].
